@@ -11,7 +11,7 @@ Appsus is a Mail & Notes App.
 <br/>
 :link: Link to the live project: [Link](https://shonchassel.github.io/Appsus/#/)  
 <br/>
-<img src='assets/img/apsus.PNG'/>
+<img src='airbxb.PNG'/>
 <br/>
 
 ## My Process
@@ -27,6 +27,7 @@ After designing a prototype of the application using Adobe XD, I started develop
 
 - SCSS modules (CSS grid & CSS Flexbox & Media queries)
 - Vue router, Font Awesome (Icons).
+
 
 
 
