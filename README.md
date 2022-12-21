@@ -2,14 +2,14 @@
 
 Appsus is a Mail & Notes App.
 
-✅ Users can search Mail & Notes using the search bar.  
-✅ Users can explore different Mail & Notes and filter them by genre: star, send, drafts.  
-✅ Users can access information related to a specific Mail & Notes.  
-✅ Authenticated users can add or delete Mail & Notes from their personal app.  
+✅ Users can search house using the search bar.  
+✅ Users can explore different house by filter them by filterModal.  
+✅ Users can access information related to a specific house.  
+✅ Authenticated users can add or delete house from their personal dashbord.  
 ✅ The app is fully responsive and it adapts to any screen size.  
 ✅ The app was developed while considering the Web Content Accessibility Guidelines (WCAG).  
 <br/>
-:link: Link to the live project: [Link](https://shonchassel.github.io/Appsus/#/)  
+:link: Link to the live project: [Link](https://air-bxb.onrender.com/)  
 <br/>
 <img src='airbxb.PNG'/>
 <br/>
