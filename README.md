@@ -26,7 +26,7 @@ After designing a prototype of the application using Adobe XD, I started develop
 - javascript.
 
 - SCSS modules (CSS grid & CSS Flexbox & Media queries)
-- Vue router, Font Awesome (Icons).
+- Vue router, Font Awesome (Icons)
 
 
 
