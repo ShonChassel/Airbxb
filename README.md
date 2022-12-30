@@ -1,6 +1,6 @@
 # :tv: Airbxb
 
-Appsus is a Mail & Notes App.
+Airbxb is a property & houses rental App.
 
 ✅ Users can search house using the search bar.  
 ✅ Users can explore different house by filter them by filterModal.  
