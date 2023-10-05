@@ -11,7 +11,7 @@ Airbxb is a property & houses rental App.
 <br/>
 :link: Link to the live project: [Link](https://air-bxb.onrender.com/)  
 <br/>
-<img src='airbxb.PNG'/>
+<img src='4.png'/>
 <br/>
 
 ## My Process:
